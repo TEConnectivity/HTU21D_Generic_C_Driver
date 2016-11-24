@@ -1,5 +1,5 @@
 # HTU21D Generic C Driver
-Arduino library for the [HTU21D sensor](http://www.te.com/usa-en/product-CAT-HSC0004.html)
+Generic C driver for the [HTU21D sensor](http://www.te.com/usa-en/product-CAT-HSC0004.html)
 
 ![htu21d](http://www.te.com/content/dam/te-com/catalog/part/CAT/HSC/000/CAT-HSC0004-t1.jpg/jcr:content/renditions/product-details.png)
 
