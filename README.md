@@ -3,8 +3,6 @@ Generic C driver for the [HTU2xD(F) sensor](http://www.te.com/usa-en/product-CAT
 
 ![htu21d](http://www.te.com/content/dam/te-com/catalog/part/CAT/HSC/000/CAT-HSC0004-t1.jpg/jcr:content/renditions/product-details.png)
 
-## Sensor Description
-
 The HTU2xD(F) sensor is a self-contained humidity and temperature sensor that is fully calibrated during manufacturing. The sensor can operate from 1.5V to 3.6V, has selectable resolution, low battery detection, and checksum capability. The HTU21D has a low current stand-by mode for power-sensitive applications.
 
 ### Specifications
@@ -17,7 +15,7 @@ The HTU2xD(F) sensor is a self-contained humidity and temperature sensor that is
 *	±3% accuracy
 
 
-## Driver features
+### Driver features
 * Connection test
 * Reset
 * Select I2C master mode
